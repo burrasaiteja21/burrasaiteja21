@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ReactJS and NodeJS**
 
-- 💬 Ask me about **Core Java,Java framework,Java selenium,**
+- 💬 Ask me about **Core Java,Java framework,Java selenium,SQL**
 
 - 📫 How to reach me **burra.saiteja21@gmail.com**
 
