@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently Studying Computer Science **Back end**
 
-- 🌱 I’m currently learning **ReactJS and NodeJS**
+- 🌱 I’m currently learning **swift**
 
-- 💬 Ask me about **Core Java,Java framework,Java selenium,SQL**
+- 💬 Ask me about **Core Java,Spring boot,JDBC,SQL,JSP,Java selenium**
 
 - 📫 How to reach me **burra.saiteja21@gmail.com**
 
