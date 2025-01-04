@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **burra.saiteja21@gmail.com**
 
-- 📄 Know about my experiences ([https://drive.google.com/file/d/1KijamCTv02uFMuh8qD_kRtgGVO-fGG1D/view?usp=sharing](https://drive.google.com/file/d/1Jz9Ggbr-UU-0yDtR5Fps_YwKzfUwswz1/view?usp=sharing))
+- 📄 Know about my experiences ([https://drive.google.com/file/d/1KijamCTv02uFMuh8qD_kRtgGVO-fGG1D/view?usp=sharing](https://drive.google.com/file/d/1zu46If9keBXJyA8rGZkj6FKkgvq1UV_X/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
